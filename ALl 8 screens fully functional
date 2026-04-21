@@ -1,0 +1,62 @@
+🪔 Splash Screen
+├─ Auto-navigates after 2 seconds
+├─ Logo: 🪔 Divine Cart
+└─ Tagline: "Pure Puja Delivered in 30 Minutes"
+
+🏠 Home Screen
+├─ 30-min delivery banner
+├─ 4 Category cards
+├─ Repeat last order button
+├─ Featured products (6 items)
+└─ Bottom tab navigation
+
+🛍️ Product Listing Screen
+├─ 2-column grid layout
+├─ Sort options (Popular, Price, Rating)
+├─ Category filtering
+├─ Product cards with ratings
+└─ Add to cart buttons
+
+📦 Product Detail Screen
+├─ Large product image
+├─ Name, description, purity info
+├─ Quantity selector (+/-)
+├─ Add to cart button
+├─ 30-min delivery badge
+└─ Additional info (Free delivery, Easy returns, Original)
+
+🛒 Cart Screen
+├─ List of items with images
+├─ Quantity adjustment per item
+├─ Remove item option
+├─ Price breakdown (Subtotal, Delivery, Total)
+├─ 30-min delivery info
+└─ Checkout button
+
+💳 Checkout Screen
+├─ Order summary (first 3 items + more count)
+├─ Full name input
+├─ Phone number (10 digits validation)
+├─ Delivery address (multiline)
+├─ Payment methods (UPI, Card, COD)
+├─ Express delivery badge
+└─ Place order button
+
+📍 Order Tracking Screen
+├─ Visual timeline (Preparing → Out for Delivery → Delivered)
+├─ Current order ID display
+├─ Call/Message/Reorder action buttons
+├─ Order history list
+├─ Status badges for each order
+└─ Delivery time tracking
+
+👤 Profile Screen
+├─ User profile header (avatar + name + email + phone)
+├─ Statistics (Total Orders, Loyalty Points)
+├─ Saved addresses (Home, Work with edit/delete)
+├─ Add new address button
+├─ Recent orders history
+├─ WhatsApp support button
+├─ Help & FAQ section
+├─ Settings option
+└─ Logout button
